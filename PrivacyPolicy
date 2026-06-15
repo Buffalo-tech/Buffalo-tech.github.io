@@ -1,280 +1,105 @@
-The privacy policy of Scanner App is applicable to the client software and services provided by Scanner App (collectively referred to as "Scanner App products or services"), including but not limited to products and services applicable to computers and mobile intelligent terminals. This privacy policy is designed to help you understand what data we will collect, why we will collect it, what we will do with it, and how we will protect it. Understanding these contents is important for you to exercise your personal rights and protect your personal information. Please take the time to carefully read this policy before using Scanner App products or services. When you start downloading, accessing or using Scanner App products or services, it means that you have agreed to this privacy policy and rely on our handling of your information. Please note that you can dynamically manage your information through the settings or controls in the product. At the same time, we remind you that when you use the third party's products or services through Scanner App products or services, your information should be subject to the third party's privacy terms. 
+This Privacy Policy explains how the operator of the mobile application Scanner (hereinafter referred to as the “App”) collects, uses, stores, discloses and protects the personal information of all users who access and use our services.
 
+By downloading, installing and using the App, you acknowledge that you have read, understood and agreed to the practices described in this Privacy Policy. If you do not agree with any part of this Policy, please stop using the App immediately.
 
-Part 1  Definitions 
+This Privacy Policy is an integral part of the Scanner End User Terms of Service and forms a binding legal agreement between you and the App operator.
 
-This product refers to the Scanner App software client.
+1. Scope of Application
 
-Associated company: refers to any company, legal institution that is or will be controlled, controlled or under common control with the company, legal institution, and the legal succession of the above companies and legal institutions. Control refers to directly or indirectly holding more than half of the voting rights, directly or indirectly enjoying more than half of the distributable profits, directly or indirectly controlling the composition of more than half of the members of the board of directors, and directly or indirectly holding half of the registered capital.
+This Policy applies to all users of the App, including all free and premium service scenarios. It covers all personal information collected and processed through your use of the App’s scanning, recognition, editing, conversion and cloud storage functions.
 
-Personal information: refers to all kinds of information recorded in electronic or other forms that can identify specific personal identity or reflect specific personal activities independently or in combination with other information.
+2. Information We Collect
 
-Personal sensitive information: including ID card number, personal identification information, bank account number, property information, personal trace, transaction information, personal information of children under 14 years old (including 14 years old), etc. 
+We only collect information that is necessary to provide our services, in accordance with the minimum necessity principle. We do not collect any unnecessary personal data.
 
-Deletion of personal information: refers to the removal of personal information from the system involved in the realization of normal business functions, so that it remains unreachable and inaccessible.
+2.1 Authorized Device Permissions and Data
 
-Other personal information: When you use the product or service of this product, this product may automatically receive and record your server value on the application. It includes but is not limited to the keywords you input, the scanning records and various records you require to obtain, the operation status of the product or service of this product, the network environment, abnormal information, etc., and some basic record information that is clearly and objectively reflected on the product or service server side of this product. 
+Camera Access: Used exclusively for capturing photos of documents, certificates and files to complete scanning functions. Camera access will not be invoked in the background, and no images will be uploaded automatically without your consent.
 
+Photo Gallery Access: Used to import local images for scanning and editing, and to save processed files and exported documents to your device.
 
-Part 2  Privacy Policy 
+Local Storage Access: Used to cache task data, save processed files and ensure normal operation of the App. All local files are stored only on your device by default.
 
-This privacy policy section will help you understand the following:
+2.2 Automatically Collected Information
 
-- How do we collect and use your personal information;
-- How do we use Cookie and similar technologies;
-- How do we share, transfer and publicly disclose your personal information;
-- How do we protect your personal information;
-- How do you manage your personal information;
-- How do we deal with the personal information of minors;
-- How your personal information is transferred globally;
-- How to update this privacy policy;
-- How to contact us.
+We may collect anonymous device information, including device model, system version and anonymized device identifiers, to optimize device compatibility, fix crashes and improve user experience. Such data cannot be used to identify any individual user.
 
+We may also collect anonymous application logs and operation records for fault diagnosis and service optimization.
 
-1. How do we collect and use your information
+2.3 Voluntarily Provided Account Information
 
-  We will collect, store and use the following personal information related to you based on the following information described in this policy. If you do not provide relevant information, you may not enjoy certain products or services provided by us, or you may not achieve the intended effect of relevant services.
+If you register an account to use cloud synchronization and premium services, you will voluntarily provide account-related information for identity verification, cloud data storage and membership right binding.
 
-  1) Help you to become our customer in order to provide services for you.
-  You need to provide your phone number, email address and other information. However, in the future, you may be required to register as our customer and provide registration information such as your phone number and email address. If you do not provide such information, it will not affect the basic services you provide with this product, but it may affect the additional functions you need to provide with real name authentication and personalized services.
+2.4 Information We Do Not Collect
 
-  2) Show and push ⽂ stamps or services for you
-  To improve our products or services and provide you with personalized services. We may extract your preferences, habits and other information for feature analysis and user portraits based on your use of APP and the content information you provide when using our services, so as to provide you with customized services more suitable for you and your equipment. For example, show or recommend more relevant information flows or news and tweets to you. We may combine your portrait information with other information authorized by you to better meet your needs. 
+The App will not actively collect your location data, contacts, microphone data, calendar data, health data, SMS records, payment information or other sensitive personal information irrelevant to core scanning functions.
 
-  3) Provide you with products or services, including:
+3. How We Use Your Information
 
-    a. The information you provide to us is for you to use our products or services. You need to choose to fill in or submit the information necessary to use our products or services according to the content of the products or services. It should be noted that to ensure a smooth product experience, you may receive content or links from a third party (hereinafter referred to as "the third party") outside the Scanner App and its partners. Scanner App has control over such third party. You can choose whether to visit the links, contents, products and services provided by the third party. Scanner App Law controls the privacy and data protection policies of the third party, and such third party is not bound by this policy. Please refer to the privacy protection policy of these third parties before submitting their information to them.
+All collected information is used only for the following purposes:
 
-    b. The information we collect during your use of our products or services is to provide you with scanning services that better meet your needs, understand product suitability, report errors to you, etc. We will collect information about your use of our products or services and link these information. Such information includes file scanning information, equipment information, log information, network environment, etc., among which, equipment information and log information refer to:
-    Equipment information: We will receive and record the relevant information of the equipment you use (such as the equipment model, operating system version, equipment settings, MAC address, unique equipment identification code and other software and hardware characteristics) according to the specific permissions you have granted in the software installation and operation Information about the location of the device (such as IP address, GPS location, and sensor information such as Wi Fi connection points, blue nodes, and base stations that can provide relevant information).
-    Information: When you make use of our products or services, we will collect your detailed information about our services and keep it as relevant information. For example, your search query content, scan record, IP address, type, telecom operator, language, visit period and time, and your visit record. Please note that separate device information, log information, etc. are information that can be used to identify a specific identity. In order to provide you with services on your device, we will associate the information collected on your various devices (computers, mobile devices). If we combine such personal information with other information to identify specific personal identity, or combine it with personal information to make personal information, such personal information will be treated as personal information during the combination, and we will anonymize and de identify such personal information unless we obtain your authorization or otherwise specified by laws and regulations. When you contact us, we may save your account number, telephone number, address, email, IP address, communication/call records and content or other contact information you left, so as to contact you or help you solve problems, or record the handling and results of related problems. 
+a. To provide, maintain and optimize core services including document scanning, OCR recognition, PDF conversion, file editing and document export;
 
-    c. We get your personal information indirectly.
+b. To fix application failures, resolve crashes and optimize functional compatibility with different devices;
 
-      - Information that you use or order third party products or services. In order to provide you with more convenient services, this product provides you with rich third party services. You can use WeChat friends, QQ friends, email and other product modules to enable relevant functions.
-      - When you connect this product to a third party service, you may need to submit your personal information (in some cases, it includes your identity information, contact information, account information, nickname, etc., and personal information can be shared with explicit authorization). You authorize us to provide this information to the third party who provides services for you, and authorize us to obtain relevant information from the third party indirectly. If you refuse us to collect such information, we will provide you with relevant functions and services, but it will not affect your use of basic functions of products or services.
-      - When you use WeChat, Weibo and QQ accounts to use our products or services, we need to verify your identity or bind your account information, and associate the relevant accounts to our products or services with your authorization.
-      - If you refuse to provide the above information or refuse to authorize, you may ask our affiliated companies or the third party to provide the corresponding products or services, or display the relevant information, but this will not affect the basic functions of this product or service.
-  
-  4) Provide you with security
+c. To verify user identity, provide membership services and process service feedback;
 
-    In order to provide you with the security of products or services provided by us and our affiliates and partners, protect the security of your or other customers' or the public's personal and property from being infringed, better prevent security risks such as fishing stations, fraud, loopholes, computer viruses, cyber attacks, cyber intrusions, and more accurately identify violations of laws and regulations or the rules of this product agreement, We may make or integrate your account information, account information, equipment information, relevant network information, and information that our affiliated companies and partners have obtained your authorization or shared according to law to comprehensively judge your account status, transaction insurance, identity verification, detection and prevention of security incidents, and take necessary record, audit, analysis and disposal measures according to law. 
+d. To respond to user consultation, complaint and service requests;
 
-  5) Other ways:
+e. To comply with applicable laws and platform requirements.
 
-    a. Participation in our surveys and activities: We will conduct surveys on our products and services from time to time, or hold activities around operational needs. If you need to provide sensitive information beyond the permission of this policy when participating in such surveys or activities, we will ask for your consent in advance.
-    b. We will ask for your consent in advance when we apply the information to other channels not specified in this policy, or apply the information collected based on specific information to other channels.
+Your scanned documents, certificates and private files are stored locally on your device by default. No document data will be automatically uploaded to the cloud without your explicit authorization.
 
-  6） Exceptions to obtaining authorization and consent According to relevant laws and regulations, your authorization and consent are required to collect your personal information under the following circumstances:
-    
-    a. Related to national security and national defense security;
-    b. Related to public safety, public health and public interest;
-    c. Related to criminal investigation, prosecution, trial and judgment enforcement;
-    d. It is difficult to obtain your consent for the purpose of protecting the legitimate rights and interests of personal information subject or other personal life and property;
-    e. The personal information collected is open to the public;
-    f. Collect personal information from legally disclosed information, such as legal news reports, government information disclosure and other channels;
-    g. Necessary for signing the contract according to your requirements;
-    h. Necessary for maintaining the safe and stable operation of the products or services provided, such as finding and handling faults of the products or services;;
-    i. Necessary for legal news reporting;
-    j. When an academic research institution is necessary to carry out statistics or academic research based on the public interest and provides the results of academic research or description to the outside world, it de identifies the individual information contained in the results;
-    k. Other circumstances stipulated by laws and regulations. If we stop operating the functions or services of this product, we will stop collecting your personal information in time, notify you of the stop operation information in the form of notice or announcement, and delete or anonymize the personal information we hold.
+4. Data Storage and Security
 
+Local user files are controlled and managed by you. Cloud data will only be stored after you actively enable the cloud synchronization function.
+Operation logs and fault data are retained for a limited period and will be automatically cleared upon expiration. Cloud account data will be retained during the valid period of your account and completely cleared after account cancellation.
 
-2 How do we use cookies and similar technologies 
+We adopt data encryption transmission, data desensitization and access isolation technologies to protect user data. We have established internal management rules to prevent unauthorized access, disclosure or misuse of user information.
 
-  To ensure the normal operation of the Product, provide you with an easier access experience and recommend you content that you may be interested in, we may store small data files named cookies on your mobile device. Cookies typically contain an identifier, a site name, and some numbers and characters. With the help of cookies, websites and clients can store your registered account, email, passwords, preferences, bank accounts, online payment and/or transaction accounts and other data. You can manage or delete cookies based on your preferences. Most networks have a feature to block cookies. But if you do this, you will need to change the user Settings every time you visit our site. For more details on how to change the Settings, visit the related Settings page you used.
+5. Third-Party Service and Data Sharing
 
-  In addition to cookies, we will also use other similar technologies such as website beacons and pixel tags on your mobile devices. For example, an email we send you may contain an address link to our website content. If you click on the link, we will track the click to help us understand your product or service preferences so that we can proactively improve the customer service experience. A website beacon is usually a transparent image embedded in a website or email. With the help of the pixel tags in the E-mail, we can tell if the E-mail has been opened. If you do not want your activities tracked in this way, you can always unsubscribe from our mailing list. 
+We will not sell, trade or rent your personal information to any third parties.
 
+The App may access compliant third-party technical services for intelligent recognition and function optimization. Any data shared with third parties will be limited to the minimum non-sensitive information required for service implementation, fully disclosed in this Policy and authorized by you explicitly.
 
-3 How do we share, transfer and publicly disclose your personal information
+All third-party service providers are required to comply with data protection laws and privacy standards. They are not permitted to use your data for unauthorized purposes.
 
-  1) Sharing
+6. App Tracking Transparency
 
-    We will not share your personal information with companies, organizations and individuals other than the service providers of this product, except in the following cases:
+This App does not enable user tracking by default. We will not obtain advertising identifiers or track user behavior across applications and websites without your explicit permission.
 
-    a. Sharing with Express consent: After obtaining your express consent, we will share your personal information with other parties.
+If tracking permission is required in the future, we will obtain your consent through official system pop-up windows. You may accept or refuse tracking authorization, and refusal will not affect the use of basic App functions. You may adjust tracking permissions at any time in your device system settings.
 
-    b. Sharing under legal circumstances: We may share your personal information in accordance with laws and regulations, litigation dispute resolution requirements, or legal requirements of administrative and judicial authorities.
+7. Account Deletion and User Rights
 
-    c. Sharing with Affiliated Companies: Your personal information may be shared with our affiliated companies in order to facilitate us to jointly provide services to you based on our affiliated accounts, recommend information that you may be interested in, and protect the affiliated companies of the product or service provider or other users or the public from personal and property safety damage. We will share the necessary personal information (such as to facilitate your use of Scanner App account using our associated products or services, we will share you the necessary account information to the related products), if we share your personal sensitive information or change the use of personal information and related products processing purposes, will once again ask for your authorization.
+You may cancel and delete your account independently through the in-app entry located in 【Settings - Account Security】.
 
-    d. Sharing with Authorized partners: Only for the purpose stated in this Privacy Policy, some of our services will be jointly provided by us and authorized partners. We may share some of your personal information with our partners in order to provide better customer service and user experience. We will only share your personal information for legal, legitimate, necessary, specific and explicit purposes, and only the personal information necessary for the provision of services. Our partners have no right to use the shared personal information for other purposes unrelated to the products or services. Currently, our licensing partners include the following types:
+After account deletion, all account registration information, cloud documents, membership data and related personal information will be completely cleared and cannot be recovered. Please back up important data before cancellation.
 
-      - Software service provider, smart device provider, and system service provider. When the product provides location-based services for you in combination with third-party software and equipment systems, it may receive your location information and equipment information and provide it to the system based on your authorization and Settings for system positioning. At the same time, it may also include your registered account number, nickname, and other personal information as required. If you refuse to collect and use such information, you need to set or shut down the software providing services in the device system. This product cannot automatically or manually set the software to shut down related services.
+If you use the App as a guest without registration, all data is stored locally only and will be completely cleared after you uninstall the App.
+You have the right to access, correct, delete your personal data and withdraw authorization at any time through device settings or in-app functions.
 
-      - Suppliers, service providers and other partners. We may send the information to support our business suppliers, service providers and other partners, the support includes providing technology infrastructure services, provide services or product links within the product after the functional, analysis of the use of our service mode, to measure the effectiveness of advertisement and services, to provide customer service and survey.
+8. Minor Privacy Protection
 
-      - Authorized partners for advertising and analytics services. Without your authorization, we will not share your personal information with our partners who provide advertising and analysis services. However, we may share the user profile formed by using your information with our partners providing advertising and analysis services to help them improve the effective reach rate of advertising and service information without identifying you personally.
+This App is intended for users aged 13 and above. Users aged between 13 and 18 shall use the App under the supervision and consent of their legal guardians.
 
-      - Other partners such as finance and credit investigation services. According to your agreement with relevant partners or file, or based on the requirement of laws and regulations, legal process or mandatory government requirement or judicial decision, or the financial and credit audit institutions such as legal requirements, comprehensive statistics, analysis of your personal information or processing process, and share the data with partners, is used to determine your credit status, Screening quality users or reduce credit bad debts, etc. We will sign strict data protection agreements with companies, organizations and individuals with whom we share personal information, requiring them to handle personal information in accordance with our instructions, this Privacy policy and any other relevant confidentiality and security measures.
+We do not knowingly collect personal information from children under 13. If you are a guardian and find that your child has provided us with personal information without consent, please contact us promptly to delete relevant data.
 
-  2) transfer
+9. Data Cross-Border Transmission
 
-    We will not transfer your personal information to any company, organization or individual except in the following cases:
+All user data collected by the App is stored on servers located within the mainland territory of the People’s Republic of China. No user personal information or document data will be transmitted or stored overseas.
 
-    a. We will transfer your personal information to other parties with your express consent;
+10. Policy Updates
 
-    b. in the product service provider, mergers, acquisitions or bankruptcy liquidation or other situations involving mergers, acquisitions or bankruptcy liquidation, such as involving personal information transfer, we will request the new holder you personal information of the company, the organization continue to be bound by this policy, otherwise we will ask the company, organization or individual to ask for a grant to you.
+We may update this Privacy Policy from time to time. Updated versions will be posted within the App and take effect immediately after publication.
 
-  3) Public disclosure
+Your continued use of the App after the update constitutes your acceptance of the revised Privacy Policy.
 
-    We will only publicly disclose your personal information under the following circumstances:
+11. Contact and Complaint
 
-    a. With your express consent or at your choice, we may publicly disclose your personal information;
+If you have any questions, comments or complaints regarding this Privacy Policy or our data processing practices, please contact us through the official support channel provided in the App. We will respond and resolve your inquiry within a reasonable period of time.
 
-    b. if we determine your violation of laws and regulations or a serious breach of this agreement of products related to the situation of the rules, or to protect the user the product and its associated companies or the personal property safety of the public from the infringement, we may according to relevant laws and regulations or the product agreement rules under the condition of your consent to disclose personal information about you, Including relevant violations and actions taken against you by the Product.
+12. Legal Terms
 
-  4) Exceptional cases
-
-    Under the following circumstances, the sharing, transfer and public disclosure of your personal information do not require prior authorization from you:
-
-    a. Related to national security and national defense security;
-
-    b. Those related to public safety, public health or major public interests;
-
-    c. Those related to the investigation, prosecution, trial and execution of judgments of crimes;
-
-    d. In order to protect your or other personal life, property and other major legal rights and interests, but it is difficult to get the consent of the person;
-
-    e. Personal information disclosed by you to the public;
-
-    f. Collect personal information from legally disclosed information, such as legal news reports, government information disclosure and other channels. By law, by sharing and transfer of the processing of personal information, and ensure the data receiver cannot recover and identify personal information main body, does not belong to the foreign share, transfer and disclosure of personal information, the preservation and processing of such data will be without prior notice to you and ask for your consent.
-
-
-4. How do we protect your personal information
-
-  1) The product will take appropriate security measures and technical means in line with industry standards to store and protect your personal information to prevent its loss, misuse, unauthorized access or disclosure, tampering or destruction. For example, through the network security layer technology SSL encryption transmission, information encryption storage, strict restrictions on data center access, the use of private network channels and network agents. Your personal information is stored in a password controlled server, access is restricted. 
-
-  2) We have established the personal information protection responsibility mechanism, established the relevant internal control system, and adopted the minimum sufficient authorization rules for the staff who may have access to your information. That is, we only allow employees of the Product and its associated companies who have a need to know such information to access or modify such information after taking reasonable steps to verify their identity. At the same time, we will strictly require them to fulfill their confidentiality and security obligations. If they fail to fulfill these obligations, they will be investigated for legal liability or the cooperation relationship with our products will be terminated.
-
-  3) In order to protect your information security, if the user's personal information is incorrect, the Product will, after strict verification and verification of the applicant's identity, access, correct or delete the relevant information as required by the user (unless the Product must retain such personal information for legal reasons).
-
-  4) We will take reasonable and practicable measures to avoid collecting irrelevant personal information. We will only retain your personal information for as long as necessary to achieve the purposes stated in the Cost policy, unless it is necessary to extend the retention period or permitted by law.
-
-  5) The Internet is not an absolutely safe environment. It is impossible to determine whether the means of communication between email, instant messaging, social software, trading platform and other users are fully encrypted. Please pay attention to the security of your personal information when you interact with each other.
-
-  6) Please understand that due to the rapid development of computer and Internet technology and the limitation of synchronization speed, there may be or appear a variety of malicious or non-malicious means of attack. Although the product continues to improve and strengthen security measures to protect your information from accidents or damage, it is not always possible to ensure that the information is 100% safe.
-
-  7) When you use the product or service, the system and communication network, or hardware equipment are beyond your control. Please understand and pay attention to the security of your personal information.
-
-  8) Please note that the information you voluntarily share or even publicly share when using our products and services may involve your or others' personal information or even personal sensitive information, such as uploading pictures containing personal information when you choose to evaluate. Please consider more carefully whether to share or even publicly share relevant information when using our services.
-
-  9) Please help us to ensure the security of your account. We will do our best to ensure the security of any information you send us. If our physical, technical or management protection facilities are damaged, resulting in unauthorized access, public disclosure, usurpation or destruction of information, resulting in damage to your legitimate rights and interests, we will bear the corresponding legal responsibilities.
-
-  10) In the event of an unfortunate personal information security incident, we will inform you in accordance with the requirements of laws and regulations: the basic situation and possible impact of the security incident, we have taken or will take measures to deal with it, you can independently prevent and reduce the risk of suggestions, remedial measures for you, etc. We will inform you of the relevant information by email, letter, telephone, push notification and other means. If it is difficult to inform individual information subjects one by one, we will make announcements in a reasonable and effective way. At the same time, we will also report the handling of personal information security incidents in accordance with the requirements of regulatory authorities. 
-
-
-5. How to manage your personal Information 
-
-You can access and manage your personal information in the following ways:
-
-1) Access to your personal information
-
-  a. You have the right to access your personal information, except for exceptions stipulated by laws and regulations.
-
-  b. If you cannot access your personal information, you can contact us at any time through the customer service of Scanner App. We will respond to your request for access within 30 days.
-
-  c. For other personal information arising from your use of our products or services, we will provide it to you in accordance with the relevant arrangements set out in Paragraph (7) of this Article in Response to your above Request.
-
-2) Correcting or supplementing Your Personal Information When you find that there is a mistake in your personal information processed by us, you have the right to request us to make a correction or supplement. You may apply for corrections or supplements in the ways outlined in "(I) Access to Your Personal Information".
-
-3) Delete your personal information
-
-  a. You may delete some of your personal information in the way listed in "(I) Accessing Your Personal Information".
-
-  b. You may request us to delete your personal information under the following circumstances:
-
-    - If our handling of personal information violates laws and regulations;
-
-    - If we collect or use your personal information without your express consent;
-
-    - If our behavior of processing personal information seriously violates the agreement with you;
-
-    - If you no longer use our products or services, or you uninstall our products voluntarily;
-
-    - If we permanently cease to provide you with our products or services.
-
-  c. If we decide to respond to your deletion request, we will also notify the subject who has obtained your personal information from us to the extent possible at the same time, requiring them to delete it in a timely manner, unless otherwise stipulated by laws and regulations, or such subject is independently authorized by you.
-
-  d. When you delete information from our services, we may not immediately delete the corresponding information from the backup system, but we will delete the information when the backup is updated.
-
-4) Change the scope of your authorization
-
-Each business function requires some basic personal information to be performed (see "Part II" of this Privacy Policy). In addition, you can revoke some authorization by unbinding, modifying personal Settings, and deleting relevant information, or by disabling the function. When you withdraw your consent, we will no longer process the corresponding personal information. However, your decision to withdraw your consent will not affect the processing of personal information previously conducted based on your authorization.
-
-5) Cancellation of the subject of personal information
-
-  a. You can uninstall the mobile client by yourself.
-
-  b. After you uninstall the mobile client, we will stop providing you with products or services and delete or anonymize your personal information as required by applicable laws.
-
-6) Constraint information system automatic decision-making
-
-In some business functions, we may only make decisions based on non-human automatic decision mechanisms, including information systems, algorithms, etc. If these decisions significantly affect your legitimate rights and interests, you have the right to ask us for an explanation, and we will provide the method of appeal on the premise of not infringing on the trade secrets of this product or the rights and interests of other users and the public interest.
-
-7) Respond to your above request
-
-  a. For security purposes, you may need to provide a written request or otherwise prove your identity. We may ask you to verify your identity before processing your request.
-
-  b.We will reply as soon as possible. If you are not satisfied, you can also initiate a complaint through the customer service contact information specified in this privacy policy.
-
-  c. For your reasonable request, we will not charge fees in principle, but for repeated requests that exceed the reasonable limit, we will charge a certain cost according to the situation. We may reject requests that are unnecessarily repetitive, require too much technology (for example, developing new systems or radically changing existing practices), pose a risk to the legitimate interests of others, or are highly impractical.
-
-  d. According to the requirements of laws and regulations, we will not be able to respond to your request under the following circumstances:
-
-    - Related to national security and national defense security;
-
-    - Those related to public safety, public health or major public interests;
-
-    - Those related to the investigation, prosecution, trial and execution of judgments of crimes;
-
-    - There is sufficient evidence that the subject of personal information has subjective malice or abuse of rights;
-
-    - Responding to your request will cause serious damage to the legitimate rights and interests of you or other individuals and organizations;
-
-    - Trade secrets involved.
-
-
-6. How do we handle minors' personal information
-
-1) Minors may not use our products or services without the consent of their parents or guardians. If you are a minor, we suggest that you ask your parents or guardians to read this Privacy Policy carefully and use our services or provide us with information with the consent of your parents or guardians.
-
-2) We will only use, share, transfer or disclose the personal information of minors that is collected with the consent of parents or guardians to use our products or services when laws and regulations permit, parents or guardians express consent or are necessary to protect minors.
-
-
-7. How can your personal information be transferred globally
-
-Personal information collected and generated by our operations in the People's Republic of China shall be stored in the People's Republic of China, except as follows:
-
-1) Laws and regulations have clear provisions;
-
-2) Obtain your explicit authorization;
-
-3) You conduct cross-border transactions through the Internet and other personal initiatives. In view of the above circumstances, we will ensure that your personal information is adequately protected in accordance with this Privacy Policy.
-
-
-8. How to update this Privacy Policy
-
-Our privacy policy is subject to change and we will notify users as soon as possible when changes occur.
-
-1) Without your express consent, we will not restrict your rights under this Privacy Policy. We will post any changes we make to the Privacy Policy on a dedicated page (Settings - About - Privacy Policy).
-
-2) For major changes, we will also provide more significant notifications (including notifications through the mobile client of Scanner App or even pop-up prompts). Material changes referred to in this Policy include, but are not limited to:
-
-  a. Our service model has changed significantly. Such as the purpose of personal information processing, the type of personal information processing, personal information use, etc.;
-
-  b. We have significant changes in control and so on. Such as merger and reorganization caused by the owner change, etc.;
-
-  c. The main object of personal information sharing, transfer or public disclosure has changed;
-
-  d. Your rights to participate in personal information processing and the way in which they are exercised have changed significantly;
-
-  e. When the department responsible for handling personal information security, contact information and complaint channels change;
-
-  f. When the personal information security impact assessment report indicates that there is high risk.
-
-
-9. How to contact us
-
-If you have any questions, comments or suggestions about this privacy policy, you can contact us by sending email. Once we receive your email, we will respond to your request as soon as possible. If you are not satisfied with our response, especially if you think that our personal information processing has harmed your legitimate rights and interests, you may seek a solution by filing a lawsuit with the court with jurisdiction in the place where the defendant is domiced. Contact us at QNScanner2021@163.com
+This Privacy Policy is governed by the laws of the People’s Republic of China, excluding Hong Kong, Macao and Taiwan regions. This Policy shall be interpreted as an integral part of the Scanner End User Terms of Service.
